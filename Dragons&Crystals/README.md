@@ -30,7 +30,7 @@
 
 1. Клонируйте репозиторий:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/IsagulovUrmat/DragonsAndCrystals
     ```
 2.  Для корректного отображения цветов, нужно запустить игру в Терминале, для этого следуйте инструкциям: 
    - В Xcode — Product > Scheme > Edit Scheme…
